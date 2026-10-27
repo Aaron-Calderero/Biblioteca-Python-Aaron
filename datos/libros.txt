@@ -1,0 +1,100 @@
+L001;Cien años de soledad;Gabriel García Márquez;1967;Novela;None
+L002;El Quijote;Miguel de Cervantes;1605;Clásico;None
+L003;La sombra del viento;Carlos Ruiz Zafón;2001;Novela;None
+L004;1984;George Orwell;1949;Ciencia ficción;None
+L005;Rebelión en la granja;George Orwell;1945;Clásico;S003
+L006;Fahrenheit 451;Ray Bradbury;1953;Ciencia ficción;None
+L007;Un mundo feliz;Aldous Huxley;1932;Ciencia ficción;None
+L008;Dune;Frank Herbert;1965;Ciencia ficción;None
+L009;Fundación;Isaac Asimov;1951;Ciencia ficción;None
+L010;Yo, robot;Isaac Asimov;1950;Ciencia ficción;None
+L011;Neuromante;William Gibson;1984;Ciencia ficción;None
+L012;El problema de los tres cuerpos;Liu Cixin;2008;Ciencia ficción;S007
+L013;El hobbit;J. R. R. Tolkien;1937;Fantasía;None
+L014;El señor de los anillos;J. R. R. Tolkien;1954;Fantasía;None
+L015;Harry Potter y la piedra filosofal;J. K. Rowling;1997;Fantasía;None
+L016;Juego de tronos;George R. R. Martin;1996;Fantasía;None
+L017;El nombre del viento;Patrick Rothfuss;2007;Fantasía;None
+L018;Mistborn: El imperio final;Brandon Sanderson;2006;Fantasía;None
+L019;Las crónicas de Narnia;C. S. Lewis;1950;Fantasía;None
+L020;Eragon;Christopher Paolini;2002;Fantasía;None
+L021;La historia interminable;Michael Ende;1979;Fantasía;None
+L022;Momo;Michael Ende;1973;Infantil;None
+L023;El principito;Antoine de Saint-Exupéry;1943;Infantil;None
+L024;Matilda;Roald Dahl;1988;Infantil;None
+L025;Charlie y la fábrica de chocolate;Roald Dahl;1964;Infantil;None
+L026;Pippi Calzaslargas;Astrid Lindgren;1945;Infantil;None
+L027;Alicia en el país de las maravillas;Lewis Carroll;1865;Infantil;None
+L028;Peter Pan;J. M. Barrie;1911;Infantil;None
+L029;Heidi;Johanna Spyri;1881;Infantil;None
+L030;Pinocho;Carlo Collodi;1883;Infantil;None
+L031;Asesinato en el Orient Express;Agatha Christie;1934;Misterio;None
+L032;Diez negritos;Agatha Christie;1939;Misterio;None
+L033;Muerte en el Nilo;Agatha Christie;1937;Misterio;None
+L034;Estudio en escarlata;Arthur Conan Doyle;1887;Misterio;None
+L035;El sabueso de los Baskerville;Arthur Conan Doyle;1902;Misterio;None
+L036;El código Da Vinci;Dan Brown;2003;Misterio;None
+L037;Los hombres que no amaban a las mujeres;Stieg Larsson;2005;Misterio;None
+L038;El nombre de la rosa;Umberto Eco;1980;Misterio;None
+L039;Rebeca;Daphne du Maurier;1938;Misterio;None
+L040;La chica del tren;Paula Hawkins;2015;Misterio;S010
+L041;Orgullo y prejuicio;Jane Austen;1813;Clásico;None
+L042;Emma;Jane Austen;1815;Clásico;None
+L043;Jane Eyre;Charlotte Brontë;1847;Clásico;None
+L044;Cumbres borrascosas;Emily Brontë;1847;Clásico;None
+L045;Grandes esperanzas;Charles Dickens;1861;Clásico;None
+L046;Oliver Twist;Charles Dickens;1838;Clásico;None
+L047;Frankenstein;Mary Shelley;1818;Clásico;None
+L048;Drácula;Bram Stoker;1897;Clásico;None
+L049;El retrato de Dorian Gray;Oscar Wilde;1890;Clásico;None
+L050;Moby Dick;Herman Melville;1851;Clásico;None
+L051;Los miserables;Victor Hugo;1862;Clásico;None
+L052;Nuestra Señora de París;Victor Hugo;1831;Clásico;None
+L053;El conde de Montecristo;Alexandre Dumas;1844;Clásico;None
+L054;Los tres mosqueteros;Alexandre Dumas;1844;Clásico;None
+L055;Madame Bovary;Gustave Flaubert;1857;Clásico;None
+L056;Crimen y castigo;Fiódor Dostoyevski;1866;Clásico;None
+L057;Los hermanos Karamázov;Fiódor Dostoyevski;1880;Clásico;None
+L058;Guerra y paz;León Tolstói;1869;Clásico;None
+L059;Anna Karénina;León Tolstói;1877;Clásico;None
+L060;La metamorfosis;Franz Kafka;1915;Clásico;None
+L061;El proceso;Franz Kafka;1925;Clásico;None
+L062;El extranjero;Albert Camus;1942;Novela;None
+L063;La peste;Albert Camus;1947;Novela;None
+L064;El túnel;Ernesto Sábato;1948;Novela;None
+L065;Pedro Páramo;Juan Rulfo;1955;Novela;None
+L066;Rayuela;Julio Cortázar;1963;Novela;None
+L067;La casa de los espíritus;Isabel Allende;1982;Novela;None
+L068;Como agua para chocolate;Laura Esquivel;1989;Novela;None
+L069;Crónica de una muerte anunciada;Gabriel García Márquez;1981;Novela;None
+L070;El amor en los tiempos del cólera;Gabriel García Márquez;1985;Novela;None
+L071;La ciudad y los perros;Mario Vargas Llosa;1963;Novela;None
+L072;La colmena;Camilo José Cela;1951;Novela;None
+L073;La familia de Pascual Duarte;Camilo José Cela;1942;Novela;None
+L074;Nada;Carmen Laforet;1945;Novela;None
+L075;Los santos inocentes;Miguel Delibes;1981;Novela;None
+L076;El camino;Miguel Delibes;1950;Novela;None
+L077;La Regenta;Leopoldo Alas Clarín;1885;Clásico;S001
+L078;Fortunata y Jacinta;Benito Pérez Galdós;1887;Clásico;None
+L079;Don Juan Tenorio;José Zorrilla;1844;Clásico;None
+L080;La Celestina;Fernando de Rojas;1499;Clásico;None
+L081;Lazarillo de Tormes;Anónimo;1554;Clásico;None
+L082;Bodas de sangre;Federico García Lorca;1933;Clásico;None
+L083;Sapiens: de animales a dioses;Yuval Noah Harari;2011;Historia;None
+L084;Homo Deus;Yuval Noah Harari;2015;Historia;None
+L085;Armas, gérmenes y acero;Jared Diamond;1997;Historia;None
+L086;SPQR: Una historia de la antigua Roma;Mary Beard;2015;Historia;None
+L087;La Segunda Guerra Mundial;Antony Beevor;2012;Historia;None
+L088;Los pilares de la Tierra;Ken Follett;1989;Historia;None
+L089;Breve historia del tiempo;Stephen Hawking;1988;Ciencia;None
+L090;Cosmos;Carl Sagan;1980;Ciencia;None
+L091;El gen egoísta;Richard Dawkins;1976;Ciencia;None
+L092;El origen de las especies;Charles Darwin;1859;Ciencia;None
+L093;Una breve historia de casi todo;Bill Bryson;2003;Ciencia;None
+L094;El universo elegante;Brian Greene;1999;Ciencia;None
+L095;Astrofísica para gente con prisa;Neil deGrasse Tyson;2017;Ciencia;None
+L096;Pensar rápido, pensar despacio;Daniel Kahneman;2011;Ciencia;None
+L097;Platero y yo;Juan Ramón Jiménez;1914;Clásico;None
+L098;Siddhartha;Hermann Hesse;1922;Novela;None
+L099;El lobo estepario;Hermann Hesse;1927;Novela;None
+L100;Soy leyenda;Richard Matheson;1954;Ciencia ficción;None

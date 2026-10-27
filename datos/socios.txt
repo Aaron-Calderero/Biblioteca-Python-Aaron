@@ -1,0 +1,15 @@
+S001;Lucía Fernández Gil;lucia.fernandez@email.com;L077
+S002;Carlos Martínez Ruiz;carlos.martinez@email.com;None
+S003;Marta Sánchez Pons;marta.sanchez@email.com;L005
+S004;Javier López Vidal;javier.lopez@email.com;None
+S005;Ana Torres Ferrer;ana.torres@email.com;None
+S006;Pablo Navarro Soler;pablo.navarro@email.com;None
+S007;Elena Ramírez Costa;elena.ramirez@email.com;L012
+S008;David Moreno Casas;david.moreno@email.com;None
+S009;Laura Jiménez Roca;laura.jimenez@email.com;None
+S010;Sergio Castro Mas;sergio.castro@email.com;L040
+S011;Paula Ortega Vila;paula.ortega@email.com;None
+S012;Alberto Romero Puig;alberto.romero@email.com;None
+S013;Irene Gutiérrez Serra;irene.gutierrez@email.com;None
+S014;Raúl Herrera Mir;raul.herrera@email.com;None
+S015;Sofía Delgado Bosch;sofia.delgado@email.com;None

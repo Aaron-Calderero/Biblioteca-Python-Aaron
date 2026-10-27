@@ -1,8 +1,7 @@
 from modelo.libro import Libro
 from modelo.socio import Socio
 
-libro = Libro("L001", "El Quijote", "Cervantes", 1605, "Novela")
-socio = Socio("S001", "Ana", "ana@mail.com")
+libros = [Libro(*l.strip().split(";")) for l in open("datos/libros.txt", encoding="utf-8")]
+socios = [Socio(*l.strip().split(";")) for l in open("datos/socios.txt", encoding="utf-8")]
 
-print(libro.titulo, libro.codigo_socio)
-print(socio.nombre, socio.codigo_libro)
+print("Se ha cargado la información de los libros.")
