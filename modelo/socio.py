@@ -1,9 +1,9 @@
 class Socio:
 
-    def __init__(self, codigo_socio, nombre, email, código_libro_prestado = None):
-        self.codigo_socio = codigo_socio
+    def __init__(self, codigo, nombre, email, código_libro = None):
+        self.codigo = codigo
         self.nombre = nombre
         self.email = email
-        self.código_libro_prestado = código_libro_prestado
+        self.código_libro = código_libro
 
     
