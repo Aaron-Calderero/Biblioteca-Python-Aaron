@@ -97,4 +97,4 @@ L096;La casa de los sueños 95;Eduardo Mendoza;1985;Ensayo;None
 L097;El último olvidado 96;Carmen Laforet;1987;Novela;None
 L098;La hija del norte 97;Carlos Ruiz Zafón;1951;Ensayo;None
 L099;El jardín de papel 98;Isabel Allende;1964;Novela;None
-L100;La noche de la luna 99;Arturo Pérez-Reverte;1980;Misterio;None
+L100;La noche de la luna 99;Arturo Pérez-Reverte;1980;Misterio;S003

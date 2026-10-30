@@ -1,6 +1,6 @@
 S001;Ana Pérez;ana@mail.com;None
 S002;Luis García;luis@mail.com;L005
-S003;María López;maría@mail.com;None
+S003;María López;maría@mail.com;L100
 S004;Pedro Sánchez;pedro@mail.com;None
 S005;Lucía Martín;lucía@mail.com;None
 S006;Jorge Ruiz;jorge@mail.com;None
