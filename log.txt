@@ -1,0 +1,2 @@
+[2026-10-30 08:32:33][INICIO][Cargados 100 libros y 15 socios]
+[2026-10-30 08:33:22][PRESTAMO][Libro L100 prestado al socio S003]

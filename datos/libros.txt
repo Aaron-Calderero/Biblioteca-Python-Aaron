@@ -1,100 +1,100 @@
-L001;Cien años de soledad;Gabriel García Márquez;1967;Novela;None
-L002;El Quijote;Miguel de Cervantes;1605;Clásico;None
-L003;La sombra del viento;Carlos Ruiz Zafón;2001;Novela;None
-L004;1984;George Orwell;1949;Ciencia ficción;None
-L005;Rebelión en la granja;George Orwell;1945;Clásico;S003
-L006;Fahrenheit 451;Ray Bradbury;1953;Ciencia ficción;None
-L007;Un mundo feliz;Aldous Huxley;1932;Ciencia ficción;None
-L008;Dune;Frank Herbert;1965;Ciencia ficción;None
-L009;Fundación;Isaac Asimov;1951;Ciencia ficción;None
-L010;Yo, robot;Isaac Asimov;1950;Ciencia ficción;None
-L011;Neuromante;William Gibson;1984;Ciencia ficción;None
-L012;El problema de los tres cuerpos;Liu Cixin;2008;Ciencia ficción;S007
-L013;El hobbit;J. R. R. Tolkien;1937;Fantasía;None
-L014;El señor de los anillos;J. R. R. Tolkien;1954;Fantasía;None
-L015;Harry Potter y la piedra filosofal;J. K. Rowling;1997;Fantasía;None
-L016;Juego de tronos;George R. R. Martin;1996;Fantasía;None
-L017;El nombre del viento;Patrick Rothfuss;2007;Fantasía;None
-L018;Mistborn: El imperio final;Brandon Sanderson;2006;Fantasía;None
-L019;Las crónicas de Narnia;C. S. Lewis;1950;Fantasía;None
-L020;Eragon;Christopher Paolini;2002;Fantasía;None
-L021;La historia interminable;Michael Ende;1979;Fantasía;None
-L022;Momo;Michael Ende;1973;Infantil;None
-L023;El principito;Antoine de Saint-Exupéry;1943;Infantil;None
-L024;Matilda;Roald Dahl;1988;Infantil;None
-L025;Charlie y la fábrica de chocolate;Roald Dahl;1964;Infantil;None
-L026;Pippi Calzaslargas;Astrid Lindgren;1945;Infantil;None
-L027;Alicia en el país de las maravillas;Lewis Carroll;1865;Infantil;None
-L028;Peter Pan;J. M. Barrie;1911;Infantil;None
-L029;Heidi;Johanna Spyri;1881;Infantil;None
-L030;Pinocho;Carlo Collodi;1883;Infantil;None
-L031;Asesinato en el Orient Express;Agatha Christie;1934;Misterio;None
-L032;Diez negritos;Agatha Christie;1939;Misterio;None
-L033;Muerte en el Nilo;Agatha Christie;1937;Misterio;None
-L034;Estudio en escarlata;Arthur Conan Doyle;1887;Misterio;None
-L035;El sabueso de los Baskerville;Arthur Conan Doyle;1902;Misterio;None
-L036;El código Da Vinci;Dan Brown;2003;Misterio;None
-L037;Los hombres que no amaban a las mujeres;Stieg Larsson;2005;Misterio;None
-L038;El nombre de la rosa;Umberto Eco;1980;Misterio;None
-L039;Rebeca;Daphne du Maurier;1938;Misterio;None
-L040;La chica del tren;Paula Hawkins;2015;Misterio;S010
-L041;Orgullo y prejuicio;Jane Austen;1813;Clásico;None
-L042;Emma;Jane Austen;1815;Clásico;None
-L043;Jane Eyre;Charlotte Brontë;1847;Clásico;None
-L044;Cumbres borrascosas;Emily Brontë;1847;Clásico;None
-L045;Grandes esperanzas;Charles Dickens;1861;Clásico;None
-L046;Oliver Twist;Charles Dickens;1838;Clásico;None
-L047;Frankenstein;Mary Shelley;1818;Clásico;None
-L048;Drácula;Bram Stoker;1897;Clásico;None
-L049;El retrato de Dorian Gray;Oscar Wilde;1890;Clásico;None
-L050;Moby Dick;Herman Melville;1851;Clásico;None
-L051;Los miserables;Victor Hugo;1862;Clásico;None
-L052;Nuestra Señora de París;Victor Hugo;1831;Clásico;None
-L053;El conde de Montecristo;Alexandre Dumas;1844;Clásico;None
-L054;Los tres mosqueteros;Alexandre Dumas;1844;Clásico;None
-L055;Madame Bovary;Gustave Flaubert;1857;Clásico;None
-L056;Crimen y castigo;Fiódor Dostoyevski;1866;Clásico;None
-L057;Los hermanos Karamázov;Fiódor Dostoyevski;1880;Clásico;None
-L058;Guerra y paz;León Tolstói;1869;Clásico;None
-L059;Anna Karénina;León Tolstói;1877;Clásico;None
-L060;La metamorfosis;Franz Kafka;1915;Clásico;None
-L061;El proceso;Franz Kafka;1925;Clásico;None
-L062;El extranjero;Albert Camus;1942;Novela;None
-L063;La peste;Albert Camus;1947;Novela;None
-L064;El túnel;Ernesto Sábato;1948;Novela;None
-L065;Pedro Páramo;Juan Rulfo;1955;Novela;None
-L066;Rayuela;Julio Cortázar;1963;Novela;None
-L067;La casa de los espíritus;Isabel Allende;1982;Novela;None
-L068;Como agua para chocolate;Laura Esquivel;1989;Novela;None
-L069;Crónica de una muerte anunciada;Gabriel García Márquez;1981;Novela;None
-L070;El amor en los tiempos del cólera;Gabriel García Márquez;1985;Novela;None
-L071;La ciudad y los perros;Mario Vargas Llosa;1963;Novela;None
-L072;La colmena;Camilo José Cela;1951;Novela;None
-L073;La familia de Pascual Duarte;Camilo José Cela;1942;Novela;None
-L074;Nada;Carmen Laforet;1945;Novela;None
-L075;Los santos inocentes;Miguel Delibes;1981;Novela;None
-L076;El camino;Miguel Delibes;1950;Novela;None
-L077;La Regenta;Leopoldo Alas Clarín;1885;Clásico;S001
-L078;Fortunata y Jacinta;Benito Pérez Galdós;1887;Clásico;None
-L079;Don Juan Tenorio;José Zorrilla;1844;Clásico;None
-L080;La Celestina;Fernando de Rojas;1499;Clásico;None
-L081;Lazarillo de Tormes;Anónimo;1554;Clásico;None
-L082;Bodas de sangre;Federico García Lorca;1933;Clásico;None
-L083;Sapiens: de animales a dioses;Yuval Noah Harari;2011;Historia;None
-L084;Homo Deus;Yuval Noah Harari;2015;Historia;None
-L085;Armas, gérmenes y acero;Jared Diamond;1997;Historia;None
-L086;SPQR: Una historia de la antigua Roma;Mary Beard;2015;Historia;None
-L087;La Segunda Guerra Mundial;Antony Beevor;2012;Historia;None
-L088;Los pilares de la Tierra;Ken Follett;1989;Historia;None
-L089;Breve historia del tiempo;Stephen Hawking;1988;Ciencia;None
-L090;Cosmos;Carl Sagan;1980;Ciencia;None
-L091;El gen egoísta;Richard Dawkins;1976;Ciencia;None
-L092;El origen de las especies;Charles Darwin;1859;Ciencia;None
-L093;Una breve historia de casi todo;Bill Bryson;2003;Ciencia;None
-L094;El universo elegante;Brian Greene;1999;Ciencia;None
-L095;Astrofísica para gente con prisa;Neil deGrasse Tyson;2017;Ciencia;None
-L096;Pensar rápido, pensar despacio;Daniel Kahneman;2011;Ciencia;None
-L097;Platero y yo;Juan Ramón Jiménez;1914;Clásico;None
-L098;Siddhartha;Hermann Hesse;1922;Novela;None
-L099;El lobo estepario;Hermann Hesse;1927;Novela;None
-L100;Soy leyenda;Richard Matheson;1954;Ciencia ficción;None
+L001;El misterio del faro;Almudena Grandes;2022;Ensayo;None
+L002;La sombra de cristal;Laura Esquivel;1965;Infantil;None
+L003;El secreto perdido;Eduardo Mendoza;2010;Misterio;None
+L004;La ciudad del tiempo;Arturo Pérez-Reverte;1962;Infantil;None
+L005;El viaje de los sueños;Carmen Laforet;1999;Misterio;S002
+L006;La casa olvidado;Carlos Ruiz Zafón;1950;Infantil;None
+L007;El último del norte;Laura Esquivel;1979;Ensayo;None
+L008;La hija de papel;Julio Cortázar;1953;Novela;None
+L009;El jardín de la luna;Carmen Laforet;2019;Novela;None
+L010;La noche del río;Isabel Allende;1977;Misterio;None
+L011;El misterio de cristal;Carmen Laforet;2017;Historia;None
+L012;La sombra perdido;Eduardo Mendoza;2013;Historia;None
+L013;El secreto del tiempo;Julio Cortázar;1979;Historia;None
+L014;La ciudad de los sueños;Eduardo Mendoza;1987;Novela;None
+L015;El viaje olvidado;Isabel Allende;2021;Ensayo;None
+L016;La casa del norte;Almudena Grandes;1987;Ensayo;None
+L017;El último de papel;Julio Cortázar;2014;Misterio;None
+L018;La hija de la luna;Rosa Montero;1974;Ciencia;None
+L019;El jardín del río;Laura Esquivel;2013;Misterio;None
+L020;La noche del faro;Carlos Ruiz Zafón;1954;Infantil;None
+L021;El misterio perdido;Arturo Pérez-Reverte;2001;Misterio;None
+L022;La sombra del tiempo;Almudena Grandes;1996;Fantasía;None
+L023;El secreto de los sueños;Javier Marías;2006;Ensayo;None
+L024;La ciudad olvidado;Almudena Grandes;2016;Misterio;None
+L025;El viaje del norte;Julio Cortázar;2012;Novela;None
+L026;La casa de papel;Eduardo Mendoza;1955;Ciencia;None
+L027;El último de la luna;Carlos Ruiz Zafón;2000;Poesía;None
+L028;La hija del río;Almudena Grandes;2014;Historia;None
+L029;El jardín del faro;Carmen Laforet;1975;Historia;None
+L030;La noche de cristal;Isabel Allende;2015;Fantasía;None
+L031;El misterio del tiempo;Carlos Ruiz Zafón;1995;Infantil;None
+L032;La sombra de los sueños;Laura Esquivel;2020;Novela;None
+L033;El secreto olvidado;Isabel Allende;2015;Poesía;None
+L034;La ciudad del norte;Rosa Montero;2021;Historia;None
+L035;El viaje de papel;Isabel Allende;1957;Infantil;None
+L036;La casa de la luna;Julio Cortázar;2022;Historia;None
+L037;El último del río;Rosa Montero;2002;Infantil;None
+L038;La hija del faro;Julio Cortázar;2003;Fantasía;None
+L039;El jardín de cristal;Carmen Laforet;2018;Fantasía;None
+L040;La noche perdido;Eduardo Mendoza;1953;Historia;None
+L041;El misterio de los sueños;Almudena Grandes;2020;Poesía;None
+L042;La sombra olvidado;Javier Marías;2020;Ciencia;None
+L043;El secreto del norte;Carmen Laforet;1959;Ensayo;None
+L044;La ciudad de papel;Carmen Laforet;2007;Novela;None
+L045;El viaje de la luna;Laura Esquivel;1981;Ciencia;None
+L046;La casa del río;Javier Marías;1973;Fantasía;None
+L047;El último del faro;Laura Esquivel;1958;Poesía;None
+L048;La hija de cristal;Almudena Grandes;1982;Poesía;None
+L049;El jardín perdido;Laura Esquivel;1987;Infantil;None
+L050;La noche del tiempo;Julio Cortázar;2013;Infantil;None
+L051;El misterio olvidado 50;Javier Marías;1953;Ciencia;None
+L052;La sombra del norte 51;Isabel Allende;1993;Misterio;None
+L053;El secreto de papel 52;Arturo Pérez-Reverte;1983;Ensayo;None
+L054;La ciudad de la luna 53;Laura Esquivel;2015;Historia;None
+L055;El viaje del río 54;Carlos Ruiz Zafón;2005;Novela;None
+L056;La casa del faro 55;Arturo Pérez-Reverte;1952;Misterio;None
+L057;El último de cristal 56;Almudena Grandes;1954;Poesía;None
+L058;La hija perdido 57;Eduardo Mendoza;2014;Misterio;None
+L059;El jardín del tiempo 58;Rosa Montero;1978;Infantil;None
+L060;La noche de los sueños 59;Arturo Pérez-Reverte;2017;Novela;None
+L061;El misterio del norte 60;Isabel Allende;1991;Misterio;None
+L062;La sombra de papel 61;Carmen Laforet;1988;Poesía;None
+L063;El secreto de la luna 62;Arturo Pérez-Reverte;1956;Ciencia;None
+L064;La ciudad del río 63;Javier Marías;1959;Ciencia;None
+L065;El viaje del faro 64;Laura Esquivel;1970;Misterio;None
+L066;La casa de cristal 65;Carlos Ruiz Zafón;1982;Poesía;None
+L067;El último perdido 66;Carmen Laforet;2021;Novela;None
+L068;La hija del tiempo 67;Carlos Ruiz Zafón;1977;Infantil;None
+L069;El jardín de los sueños 68;Almudena Grandes;2015;Novela;None
+L070;La noche olvidado 69;Isabel Allende;1975;Fantasía;None
+L071;El misterio de papel 70;Javier Marías;1976;Misterio;None
+L072;La sombra de la luna 71;Carlos Ruiz Zafón;1974;Infantil;None
+L073;El secreto del río 72;Javier Marías;1999;Ciencia;None
+L074;La ciudad del faro 73;Rosa Montero;2013;Novela;None
+L075;El viaje de cristal 74;Julio Cortázar;2001;Ciencia;None
+L076;La casa perdido 75;Carmen Laforet;1970;Historia;None
+L077;El último del tiempo 76;Julio Cortázar;2022;Poesía;None
+L078;La hija de los sueños 77;Julio Cortázar;2004;Historia;None
+L079;El jardín olvidado 78;Laura Esquivel;1962;Misterio;None
+L080;La noche del norte 79;Rosa Montero;1994;Infantil;None
+L081;El misterio de la luna 80;Rosa Montero;1980;Ensayo;None
+L082;La sombra del río 81;Carmen Laforet;1960;Poesía;None
+L083;El secreto del faro 82;Almudena Grandes;1971;Historia;None
+L084;La ciudad de cristal 83;Laura Esquivel;1992;Ciencia;None
+L085;El viaje perdido 84;Julio Cortázar;1993;Fantasía;None
+L086;La casa del tiempo 85;Javier Marías;1987;Historia;None
+L087;El último de los sueños 86;Carlos Ruiz Zafón;2012;Poesía;None
+L088;La hija olvidado 87;Carlos Ruiz Zafón;2020;Ensayo;None
+L089;El jardín del norte 88;Julio Cortázar;1955;Misterio;None
+L090;La noche de papel 89;Javier Marías;1998;Poesía;None
+L091;El misterio del río 90;Almudena Grandes;1993;Ensayo;None
+L092;La sombra del faro 91;Carlos Ruiz Zafón;1998;Ensayo;None
+L093;El secreto de cristal 92;Carlos Ruiz Zafón;2020;Historia;None
+L094;La ciudad perdido 93;Carlos Ruiz Zafón;1960;Ciencia;None
+L095;El viaje del tiempo 94;Julio Cortázar;1987;Ensayo;None
+L096;La casa de los sueños 95;Eduardo Mendoza;1985;Ensayo;None
+L097;El último olvidado 96;Carmen Laforet;1987;Novela;None
+L098;La hija del norte 97;Carlos Ruiz Zafón;1951;Ensayo;None
+L099;El jardín de papel 98;Isabel Allende;1964;Novela;None
+L100;La noche de la luna 99;Arturo Pérez-Reverte;1980;Misterio;None
