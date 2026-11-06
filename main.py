@@ -72,10 +72,6 @@ def mostrar_libros(libros):
     print(f"\nTotal: {len(libros)} libros")
 
 
-def listar_todos(libros):
-    mostrar_libros(libros)
-
-
 def listar_disponibles(libros):
     mostrar_libros([libro for libro in libros if libro.esta_disponible()])
 
@@ -217,7 +213,7 @@ def main():
         opcion = input("Elige una opción: ").strip()
         print()
         if opcion == "1":
-            listar_todos(libros)
+            mostrar_libros(libros)
         elif opcion == "2":
             listar_disponibles(libros)
         elif opcion == "3":
