@@ -1,0 +1,15 @@
+S001;Ana Pérez;ana@mail.com;None
+S002;Luis García;luis@mail.com;L005
+S003;María López;maría@mail.com;L100
+S004;Pedro Sánchez;pedro@mail.com;None
+S005;Lucía Martín;lucía@mail.com;None
+S006;Jorge Ruiz;jorge@mail.com;None
+S007;Elena Díaz;elena@mail.com;None
+S008;Pablo Torres;pablo@mail.com;None
+S009;Sara Gómez;sara@mail.com;None
+S010;David Navarro;david@mail.com;None
+S011;Marta Romero;marta@mail.com;None
+S012;Iván Castro;iván@mail.com;None
+S013;Julia Ortega;julia@mail.com;None
+S014;Raúl Vidal;raúl@mail.com;None
+S015;Nuria Costa;nuria@mail.com;None
